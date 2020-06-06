@@ -1,0 +1,12 @@
+name: word_prediction_app
+title: word_prediction_app
+username:
+account: moooor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2418152
+bundleId: 3236030
+url: https://moooor.shinyapps.io/word_prediction_app/
+when: 1591454911.15826
+asMultiple: FALSE
+asStatic: FALSE
